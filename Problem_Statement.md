@@ -9,12 +9,12 @@ If parking time > 2 and ≤ 5 hours, fine = 50
 If parking time > 5 hours, fine = 20
 Task
 Write a program to calculate and print the parking fine.
-Input
-** An integer hours
-Output
-** An integer representing the price
+Input :
+An integer hours
+Output :
+An integer representing the price
 
-Test Cases
+Test Cases : 
 Input: 1
 Output: 100
 
